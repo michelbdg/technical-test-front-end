@@ -1,0 +1,28 @@
+.about {
+    display: flex;
+    align-items: flex-start;
+    align-items: center;
+    padding: 80px;
+    background: #f3f0ea;
+  }
+  
+  .container-img {
+    flex: 0 0 auto; 
+    margin-right: 100px; 
+  }
+  
+  .about-img {
+    width: 100%;
+  }
+  
+  .text-container {
+    width: 708px; 
+  }
+  
+  #about-title {
+    width: 708px;
+    height: 62px;
+    margin-bottom: 30px; 
+    color: #0F172A;
+  }
+  

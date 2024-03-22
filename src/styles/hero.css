@@ -1,0 +1,26 @@
+.hero-content {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: 100%;
+}
+
+.text-container {
+  text-align: left;
+}
+
+.button {
+  width: 173px;
+  height: 64px;
+  padding: 20px 24px;
+  border-radius: 50px;
+  background: #71a894;
+  color: white;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.button:hover {
+  background: #5c896b;
+}
